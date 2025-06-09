@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/cams_data_manager" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
