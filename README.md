@@ -27,7 +27,7 @@ This plugin specifically supports data from:
 ---
 
 ## ⚙️ Installation
-
+Before installing the plugin, please make sure to install the following packages in the QGIS Python environment: pip install cdsapi pyproj rioxarray geopandas netCDF4 h5netcdf cftime h5py dask
 ### Option 1: Manual Installation
 
 1. Clone or download this repository
